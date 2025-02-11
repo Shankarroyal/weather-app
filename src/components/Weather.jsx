@@ -58,7 +58,7 @@ const Weather = ()=>{
 
         }
     }   
-    useEffect(()=>{search("");
+    useEffect(()=>{search("London");
 
     },[])  
     
